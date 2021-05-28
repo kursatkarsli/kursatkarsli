@@ -10,7 +10,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash%20Script-333333?style=flat&logo=GNU-Bash&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash%20Script-red?style=flat&logo=GNU-Bash&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 - 🌐 &nbsp;
