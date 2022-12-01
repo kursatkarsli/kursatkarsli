@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript - React
-- 🌱 I’m currently learning Node.js - Next.js
-- 🤔 I’m looking for help about to find Job...
-- 💬 Ask me about FrontEnd Environment...
-<hr>
-
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
