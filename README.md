@@ -22,6 +22,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=pink)
   ![Jquery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-React-333333?style=flat&logo=vue)
 
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
